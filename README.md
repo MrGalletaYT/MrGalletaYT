@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **null**
 
-<h3 align="left">Connect with me: Discord: MrGalletaYTPM</h3>
+<h3 align="left">Connect with me: Discord: https://dsc.gg/pocketdevs</h3>
 <p align="left">
 </p>
 
